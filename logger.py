@@ -1,7 +1,6 @@
 import time
 import os
 import sys
-import inspect
 import logging
 
 # Добавляем путь к директории проекта в sys.path
